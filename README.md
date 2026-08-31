@@ -12,7 +12,17 @@ Streamlit dashboard.
 3) visualization.py      Chart functions used by app.py       (Person 3, no direct run needed)
 4) app.py                Streamlit dashboard + executive summary (Person 4 & 5)
 ```
+## Deployment
 
+```
+This project is deployed and live on Streamlit Community Cloud: https://sleep-health-dashboardgit.streamlit.app/ 
+```
+
+## Demo Video
+
+```
+A short walkthrough video demonstrating the dashboard's features and functionality is available here: 
+```
 ## Setup
 
 ```bash
