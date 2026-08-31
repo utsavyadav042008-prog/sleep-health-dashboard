@@ -1,0 +1,4 @@
+AI Usage Disclosure: I used Claude (Anthropic) as a coding assistant during the development of this project primarily 
+to help draft and debug the Streamlit dashboard (app.py), review my feature-engineering logic for the sleep tier classification, 
+and troubleshoot environment/setup errors.
+
