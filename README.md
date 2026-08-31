@@ -21,7 +21,7 @@ This project is deployed and live on Streamlit Community Cloud: https://sleep-he
 ## Demo Video
 
 ```
-A short walkthrough video demonstrating the dashboard's features and functionality is available here: 
+A short walkthrough video demonstrating the dashboard's features and functionality is available here: https://drive.google.com/file/d/1f03uKLRYULxx7_NRw64H-hBKJKFB4KIZ/view?usp=sharing
 ```
 ## Setup
 
